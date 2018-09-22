@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country>
+<name>Ireland</name>
+<background>
+A warm welcome in a traditional pub, a meeting with long-lost family, 
+a walk to remember through a wild landscape; you won’t be short of things to do in Ireland
+</background>
+<population date="July 2013" type="estimate">
+4,595,000
+</population>
+<administrative_divisions>
+
+<division type="province" name="Leinster">
+	<capital>Dublin</capital>
+	<city>Carlow</city>
+	<city>Kilkenny</city>
+	<city>Meath</city>
+</division>
+
+<division type="province" name="Ulster">
+	<capital>Belfast</capital>
+	<city>Donegal</city>
+	<city>Monaghan</city>
+	<city>Tyrone</city>
+</division>
+
+<division type="province" name="Munster">
+	<capital>Cork</capital>
+	<city>Kerry</city>
+	<city>Limerick</city>
+	<city>Tipperary</city>
+</division>
+
+<division type="province" name="Connacht">
+	<capital>Galway</capital>
+	<city>Leitrim</city>
+	<city>Mayo</city>
+</division>
+</administrative_divisions>
+</country>
